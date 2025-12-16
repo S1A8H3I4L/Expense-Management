@@ -1,0 +1,7 @@
+{
+  "name": "Expense Management",
+  "description": "A comprehensive expense management system with AI-powered receipt OCR, multi-level approval workflows, and role-based access control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
